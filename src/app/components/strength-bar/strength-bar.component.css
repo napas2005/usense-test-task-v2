@@ -1,0 +1,26 @@
+.section {
+    width: 90%;
+    height: 60px;
+    border-radius: 24PX;
+}
+
+.gray {
+    background-color: lightgray;
+  }
+  
+  .red {
+    background-color: #ff9999;
+  }
+  
+  .yellow {
+    background-color: #ffff99;
+  }
+  
+  .green {
+    background-color: #99ff99;
+  }
+  
+  .section {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
